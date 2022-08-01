@@ -3,20 +3,41 @@ Posisi       : Menkominfo
 Afiliasi     : Partai NasDem
 Media Sosial : @PlateJohnny
 Keterangan   : 
-
+    - Sumber : https://www.kompas.tv/article/314654/full-menkominfo-johnny-plate-jawab-polemik-blokir-paypal-dan-steam-bahas-urgensi-daftar-pse
+    - Arsip  : https://web.archive.org/web/20220801043929/https://mobile.twitter.com/sandiuno/status/1553304444263022592
 
 [Semuel Abrijani Pangerapan]
 Posisi       : DirJen Aptika Kemenkominfo
 Afiliasi     :
 Media Sosial :
-Keterangan   :
+Keterangan   : 
+    - Sumber : https://bisnis.tempo.co/read/1617639/situs-judi-online-diduga-daftar-pse-kominfo-itu-permainan-kartu-biasa
+    - Arsip  : https://web.archive.org/web/20220731190910/https://bisnis.tempo.co/read/1617639/situs-judi-online-diduga-daftar-pse-kominfo-itu-permainan-kartu-biasa
 
 
 [Sandiaga Salahuddin Uno]
 Posisi       : Menteri Pariwisata dan Ekonomi Kreatif
 Afiliasi     :
 Media Sosial : @sandiuno
-Keterangan   : Mendukung PSE (link: https://twitter.com/sandiuno/status/1553304444263022592?s=20&t=WIrIOUyFfPWP3wHNm98V5Q)
+Keterangan   : 
+    - Sumber : https://twitter.com/sandiuno/status/1553304444263022592?s=20&t=WIrIOUyFfPWP3wHNm98V5Q
+    - Arsip  : https://web.archive.org/web/20220801043929/https://mobile.twitter.com/sandiuno/status/1553304444263022592
 
 
+[Dave Laksono]
+Posisi       : -
+Afiliasi     : Partai Golkar
+Media Sosial :
+Keterangan   : 
+    - Sumber : https://video.kompas.com/watch/165517/anggota-komisi-i-dpr-anggap-pemblokiran-oleh-kominfo-sudah-tepat
+    - Arsip  : https://web.archive.org/web/20220801061201/https://video.kompas.com/watch/165517/anggota-komisi-i-dpr-anggap-pemblokiran-oleh-kominfo-sudah-tepat
+
+
+[Teddy Gusnaidi]
+Posisi       : -
+Afiliasi     : Partai Garuda
+Media Sosial :
+Keterangan   : 
+    - Sumber : https://news.detik.com/berita/d-6208559/partai-garuda-bela-kominfo-harusnya-kita-marah-ke-steam-paypal?page=all&single=1
+    - Arsip  : https://web.archive.org/web/20220801103428/https://news.detik.com/berita/d-6208559/partai-garuda-bela-kominfo-harusnya-kita-marah-ke-steam-paypal?page=all&single=1
 
